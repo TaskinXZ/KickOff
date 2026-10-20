@@ -1,7 +1,12 @@
-# ⚽ KickØff
+# ⚽ KickOff (KickØff)
 
+[![Live on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://kick-off-silk-five.vercel.app)
+[![React 19](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)](https://kick-off-silk-five.vercel.app)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?style=for-the-badge&logo=typescript)](https://kick-off-silk-five.vercel.app)
+
+> **Live Demo:** [https://kick-off-silk-five.vercel.app](https://kick-off-silk-five.vercel.app)  
 > **A Modern, High-Performance Web-Based Football Management & Career Simulator**  
-> *Inspired by the tactical depth of Football Manager and the career progression of FIFA, engineered for zero clunkiness, buttery 60fps responsiveness, and 1-click deployment on Vercel or Netlify.*
+> *Inspired by the tactical depth of Football Manager and the career progression of FIFA, engineered for zero clunkiness, buttery 60fps responsiveness, and deployed live on Vercel.*
 
 ---
 

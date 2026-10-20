@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kick-off-silk-five.vercel.app/sitemap.xml
